@@ -1,0 +1,2 @@
+def newfunc():
+    return "val"
